@@ -26,18 +26,23 @@ Over the years, I've reported **74+ valid vulnerabilities** across public and pr
 
 ## 📂 Featured Projects
 
+### Clarence
+Recover GraphQL schemas from introspection-disabled endpoints using alternative discovery techniques.
+
+### Recon Automation Pipeline
+Automates DNS resolution, port scanning, HTTP fingerprinting, and HTML report generation.
+
+### Subdomain Enumeration Pipeline
+Combines passive discovery, DNS bruteforcing, and alternate hostname generation into a unified enumeration workflow.
+
+### GraphQL Query Builder
+Generates GraphQL queries from recovered schemas to accelerate manual application security testing.
+
 ### HMAC-SHA256 Cracker
+Dictionary-based HMAC-SHA256 key recovery utility designed for long messages unsupported by Hashcat.
 
-A Python utility for recovering HMAC-SHA256 secret keys from long signed messages when traditional GPU-based approaches (such as Hashcat) cannot be used due to message length limitations.
-
-### More coming soon...
-
-I'm currently preparing and documenting several internal security research tools for public release, including:
-
-- GraphQL Schema Recovery Tool
-- Recon Automation Framework
-- Subdomain Enumeration Pipeline
-- GraphQL Query Generator
+### Firefox RCE (Educational Port)
+Educational JavaScript port of the Firefox CVE-2016-9079 exploit created during OSCP preparation.
 
 ---
 
