@@ -1,6 +1,6 @@
 # Hi, I'm Soham 👋
 
-I'm an **Independent Application Security Researcher** with 5+ years of experience discovering and responsibly disclosing vulnerabilities through bug bounty and private vulnerability disclosure programs.
+I'm an **Application Security Researcher** with 5+ years of independent experience discovering and responsibly disclosing vulnerabilities through bug bounty and private vulnerability disclosure programs.
 
 My primary interests include:
 
